@@ -1,0 +1,19 @@
+{
+  "_leeme": "Referencias de color verificadas. El bot las usa cuando el análisis encuentra el objeto en una foto: pasa los colores al prompt en texto. La imagen es solo para que vos veas la referencia: NO se le adjunta a Codex porque copia el dibujo. Para sumar una: agregá un objeto acá y su imagen en img/. 'nombres' son las palabras que la detectan (en minúscula). Las imágenes son de uso interno: no se publican.",
+  "referencias": [
+    {
+      "clave": "goofy",
+      "nombres": ["goofy", "tribilín", "tribilin"],
+      "colores": "Goofy (Disney, look clásico años 60-80): sombrero verde lima (#9CC23F), suéter de cuello alto naranja (#EB7B31), chaleco negro, pantalón azul (#2056AC) con botamanga, zapatos marrón rojizo (#AB4012), guantes blancos, orejas y cabeza negras, hocico color piel claro.",
+      "imagen": "img/goofy-clasico.jpg",
+      "fuente": "Referencia aportada por Nicolás (2026-10-09); coincide con everycharacter.com/outfit/goofy-regular-look"
+    },
+    {
+      "clave": "daisy",
+      "nombres": ["daisy", "pata daisy", "daisy duck"],
+      "colores": "Pata Daisy (Disney, look clásico): plumas blancas, moño rojo frambuesa (#C13A51), blusa rosa (#F46F83), pico y patas amarillo anaranjado (#E0A040), zapatos rojos, sombra de ojos celeste.",
+      "imagen": "img/daisy-clasica.png",
+      "fuente": "Referencia aportada por Nicolás (2026-10-09)"
+    }
+  ]
+}

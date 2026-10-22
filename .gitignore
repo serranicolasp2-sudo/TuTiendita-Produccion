@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Carpetas de renders y capturas de pruebas temporales (los scripts se conservan)
+pruebas/2026-10-13/
+pruebas/2026-10-13-ajustes/
+pruebas/2026-10-13-modos/
+pruebas/movil-2026-10-13/
+pruebas/salida_movil/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
